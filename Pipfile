@@ -6,12 +6,14 @@ name = "pypi"
 scheduler = {editable = true, path = "."}
 
 [dev-packages]
-yapf = "*"
 nose2 = "*"
-toml = "*"
-oauth2client = "*"
-gspread-formatting = "1.0.0"
-gspread = "4.0.1"
+sphinx = "*"
+sphinx-rtd-theme = "*"
 
 [requires]
 python_version = "3.9"
+gspread = "4.0.1"
+gspread-formatting = "1.0.0"
+toml = "*"
+oauth2client = "*"
+yapf = "*"

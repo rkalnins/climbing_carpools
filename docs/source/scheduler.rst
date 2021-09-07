@@ -12,10 +12,18 @@ scheduler.generate\_rides module
    :undoc-members:
    :show-inheritance:
 
-scheduler.gform\_backend module
+scheduler.output\_writer module
 -------------------------------
 
-.. automodule:: scheduler.gform_backend
+.. automodule:: scheduler.output_writer
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+scheduler.response\_reader module
+---------------------------------
+
+.. automodule:: scheduler.response_reader
    :members:
    :undoc-members:
    :show-inheritance:
